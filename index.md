@@ -14,7 +14,7 @@ humantime: "9:00 am - 1:00 pm"
 startdate: 2020-09-21
 enddate: 2020-09-25
 instructor: ["Richard Miller", "Belinda Fabian", "Evan Matthews"]
-helper: ["TBA"]
+helper: ["Alex Southern", "Lucie Semenec", "Jon Mifsud", "Vince Polito", "Natalie Wall", "Paula Martinez", "Sara King", "LyTong"]
 email: ["richard.miller@mq.edu.au"] 
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 116817274613           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
