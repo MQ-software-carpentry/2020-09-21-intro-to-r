@@ -137,7 +137,7 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
-{% comment%}
+{% comment %}
 CODE OF CONDUCT
 {% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
@@ -152,16 +152,6 @@ Everyone who participates in Carpentries activities is required to conform to th
   </a>
 </p>
 <hr/>
-
-
-
-<h2 id="collaborative_notes">Collaborative Notes</h2>
-
-<p>
-We will use this <a href="http://bit.ly/r-workshop-doc">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-<hr/>
-{% endif %}
 
 
 {% comment %}
